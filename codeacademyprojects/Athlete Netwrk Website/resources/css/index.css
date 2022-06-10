@@ -1,0 +1,42 @@
+.page{
+    background-color: white;
+    margin: 40px;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.title{
+    text-align: left;
+}
+
+.nav{
+    text-align: right;
+    margin-right: 20px;
+}
+
+#button1{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    width: 100px;
+    transition-duration: .4s;
+}
+
+#button1:hover{
+    background-color: rgb(199, 196, 196);
+    color: white;
+
+}
+
+#button2{
+    color: black;
+    background-color: white;
+    border: 1px solid black;
+    width: 100px;
+    transition-duration: .4s;
+}
+
+#button2:hover{
+    background-color: rgb(199, 196, 196);
+    color: white;
+}
